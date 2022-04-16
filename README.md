@@ -4,7 +4,7 @@
   <a href="https://www.cesarcamilo.com/">Website</a> |
   <a href="https://twitter.com/CamiloVll">Twitter</a> |
   <a href="https://www.linkedin.com/in/CamiloVll/">Linkedin</a> |
-  <a href="https://www.instagram.com/CamiloVll/">Instagram</a>
+  <a href="https://www.instagram.com/camilovll7/">Instagram</a>
 </p>
    
 <p align="center">
