@@ -8,7 +8,7 @@
 </p>
    
 <p align="center">
-<img align="center" src="https://media4.giphy.com/media/jOQeUeayitAP5WHUMV/giphy.gif?cid=790b7611944a656edaa2406b10575cbb813b5c94ce236ce4&rid=giphy.gif&ct=g"> 
+<img align="center" src="https://media.tenor.com/Kq7ERWPV6sQAAAAd/reze-chainsaw-man.gif"> 
 </p><br>
 
 I'm a web developer who wants to change the world through code. ✨ Being close to the brilliant world of technology makes me think that together we can do great things. 📚 I usually do things that make me happy, reading my books, writing JS code & spending time with my family. 
