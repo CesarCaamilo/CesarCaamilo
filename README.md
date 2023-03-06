@@ -11,7 +11,11 @@
 <img align="center" src="https://media.tenor.com/Kq7ERWPV6sQAAAAd/reze-chainsaw-man.gif"> 
 </p><br>
 
-I'm a web developer who wants to change the world through code. ✨ Being close to the brilliant world of technology makes me think that together we can do great things. 📚 I usually do things that make me happy, reading my books, writing JS code & spending time with my family. 
+Mexican software engineer with a passion for technology and Innovation 🚀
+
+My expertise in cutting-edge technologies such as artificial intelligence and mobile app development enables me to create software solutions that drive change and digital transformation in businesses 💻
+
+As a content creator, I enjoy sharing my experiences and knowledge on social media and my personal blog. My goal is to inspire others to explore the world and pursue their passions 💚
 
 ## 🌱 Skills
 
