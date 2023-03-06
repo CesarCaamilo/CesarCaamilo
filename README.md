@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://www.cesarcamilo.com/">Website</a> |
-  <a href="https://twitter.com/CamiloVll">Twitter</a> |
-  <a href="https://www.linkedin.com/in/CamiloVll/">Linkedin</a> |
-  <a href="https://www.instagram.com/camilovll7/">Instagram</a>
+  <a href="https://twitter.com/CesarCaamilo">Twitter</a> |
+  <a href="https://www.linkedin.com/in/cesarcamilo">Linkedin</a> |
+  <a href="https://www.instagram.com/cesarcaamilopy">Instagram</a>
 </p>
    
 <p align="center">
